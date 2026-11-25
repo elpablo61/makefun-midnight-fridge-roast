@@ -1,0 +1,1 @@
+{"description":"One-line roast of a smart fridge that refuses to open after midnight, for the make.fun Midnight Fridge Roast bounty.","license":"MIT","main":"main.ts","name":"makefun-midnight-fridge-roast","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
